@@ -104,11 +104,11 @@ int main(){
 				bool add = true;
 				//check middle
 				if(b>2){
-					for(int i=1;i<b-1;i++)
+					for(int i=1;i<b-1 && add;i++)
 						if(n1[i+pos]!=n2[i])add=false;
 				}
-				if(n1[pos]<n2[0])add=false;			//check first
-				if(n1[pos+b-1]<n2[b-1])add=false;	//check last
+				if(n1[pos]<n2[0] && add)add=false;			//check first
+				if(n1[pos+b-1]<n2[b-1] && add)add=false;	//check last
 				if(add)total++;
 				pos = reduce1.find(reduce2,pos+1);
 			}
