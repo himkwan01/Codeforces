@@ -1,0 +1,11 @@
+Solved
+598A -Tricky Sum			2015-11-18 04:45:52
+596B - Wilbur and Array		2015-11-18 22:55:41
+597A - Divisibility			2015-11-19 05:50:09
+595A - Vitaly and Night		2015-11-19 06:15:21
+617A - Elephant				2016-03-03 19:48:17
+634A - Island Puzzle		2016-03-03 21:14:46
+631D - Messenger			2016-03-08 21:02:31
+651A - Joysticks			2016-03-10 22:27:42
+651B - Beautiful Paintings	2016-03-11 00:41:25
+650A - Watchmen				2016-03-11 06:23:02
