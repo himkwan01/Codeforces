@@ -1,2 +1,14 @@
-# Codeforces
-Codeforces problemsets' codes
+# Solved Problems
+  - 1A	Theatre Square
+  - 595A	Vitaly and Night
+  - 596B	Wilbur and Array
+  - 597A	Divisiblity
+  - 598A	Tricky Sum
+  - 617A	Elephant
+	- 630L	Cracking the Code
+  - 631D	Messager
+  - 634A	Island Puzzle
+  - 650A	Watchmen
+  - 651A	Joysticks
+  - 651B	Beautiful Paintings
+	- 653A	Bear and Three Balls

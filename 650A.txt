@@ -1,8 +1,8 @@
 A. Watchmen
-time limit per test3 seconds
-memory limit per test256 megabytes
-inputstandard input
-outputstandard output
+time limit per test 3 seconds
+memory limit per test 256 megabytes
+input standard input
+output standard output
 Watchmen are in a danger and Doctor Manhattan together with his friend Daniel Dreiberg should warn 
 them as soon as possible. There are n watchmen on a plane, the i-th watchman is located at point 
 (x(i),y(i)).

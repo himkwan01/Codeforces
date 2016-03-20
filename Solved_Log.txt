@@ -1,5 +1,5 @@
 Solved
-598A -Tricky Sum			2015-11-18 04:45:52
+598A - Tricky Sum			2015-11-18 04:45:52
 596B - Wilbur and Array		2015-11-18 22:55:41
 597A - Divisibility			2015-11-19 05:50:09
 595A - Vitaly and Night		2015-11-19 06:15:21

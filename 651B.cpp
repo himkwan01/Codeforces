@@ -22,9 +22,7 @@ int main(){
 		int min = it->second;
 		//update the output
 		output+=(min*(data.size()-1));
-		//cout<<output<<endl;
 		//erase the minimum value's element
-		//data.erase(it);
 		//check if there is any same min value element
 		do{
 			data.erase(it);
