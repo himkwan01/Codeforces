@@ -1,14 +1,17 @@
 Solved
-598A - Tricky Sum						2015-11-18 04:45:52
-596B - Wilbur and Array			2015-11-18 22:55:41
-597A - Divisibility					2015-11-19 05:50:09
-595A - Vitaly and Night			2015-11-19 06:15:21
-617A - Elephant							2016-03-03 19:48:17
-634A - Island Puzzle				2016-03-03 21:14:46
-631D - Messenger						2016-03-08 21:02:31
-651A - Joysticks						2016-03-10 22:27:42
-651B - Beautiful Paintings	2016-03-11 00:41:25
-650A - Watchmen							2016-03-11 06:23:02
-1A	 - Theatre Square				2016-03-14 02:51:18
-630L - Cracking the Code		2016-03-17 18:58:06
-653A - Bear and Three Balls	2016-03-21 02:01:04
+598A - Tricky Sum																2015-11-18 04:45:52
+596B - Wilbur and Array													2015-11-18 22:55:41
+597A - Divisibility															2015-11-19 05:50:09
+595A - Vitaly and Night													2015-11-19 06:15:21
+617A - Elephant																	2016-03-03 19:48:17
+634A - Island Puzzle														2016-03-03 21:14:46
+631D - Messenger																2016-03-08 21:02:31
+651A - Joysticks																2016-03-10 22:27:42
+651B - Beautiful Paintings											2016-03-11 00:41:25
+650A - Watchmen																	2016-03-11 06:23:02
+1A	 - Theatre Square														2016-03-14 02:51:18
+630L - Cracking the Code												2016-03-17 18:58:06
+653A - Bear and Three Balls											2016-03-21 02:01:04
+612A - Replace To Make Regular Bracket Sequence	2016-03-22 23:32:12
+4A	 - Registration System											2016-03-23 01:55:40
+158B - Taxi																			2016-03-23 04:50:22
