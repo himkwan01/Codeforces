@@ -1,14 +1,17 @@
 # Solved Problems
-  - 1A	Theatre Square
-  - 595A	Vitaly and Night
-  - 596B	Wilbur and Array
-  - 597A	Divisiblity
-  - 598A	Tricky Sum
-  - 617A	Elephant
-	- 630L	Cracking the Code
-  - 631D	Messager
-  - 634A	Island Puzzle
-  - 650A	Watchmen
-  - 651A	Joysticks
-  - 651B	Beautiful Paintings
-	- 653A	Bear and Three Balls
+  - [1A	Theatre Square](http://codeforces.com/problemset/problem/1/A)
+  - [4C Registration System](http://codeforces.com/problemset/problem/4/C)
+  - [595A	Vitaly and Night](http://codeforces.com/problemset/problem/595/A)
+  - [596B	Wilbur and Array](http://codeforces.com/problemset/problem/596/B)
+  - [597A	Divisiblity](http://codeforces.com/problemset/problem/597/A)
+  - [598A	Tricky Sum](http://codeforces.com/problemset/problem/598/A)
+  - [612C	Replace To Make Regular Bracket Sequence](http://codeforces.com/problemset/problem/612/C)
+  - [617A	Elephant](http://codeforces.com/problemset/problem/617/A)
+  - [630L	Cracking the Code](http://codeforces.com/problemset/problem/630/L)
+  - [630J  Divisiblity](http://codeforces.com/problemset/problem/630/J)
+  - [631D	Messager](http://codeforces.com/problemset/problem/631D/D)
+  - [634A	Island Puzzle](http://codeforces.com/problemset/problem/634/A)
+  - [650A	Watchmen](http://codeforces.com/problemset/problem/650/A)
+  - [651A	Joysticks](http://codeforces.com/problemset/problem/651/A)
+  - [651B	Beautiful Paintings](http://codeforces.com/problemset/problem/651/B)
+  - [653A	Bear and Three Balls](http://codeforces.com/problemset/problem/653/A)
