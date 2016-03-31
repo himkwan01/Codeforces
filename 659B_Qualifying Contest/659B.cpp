@@ -11,13 +11,13 @@ int main(){
 		 s[r-1].insert(make_pair(800-p,name));
 	}
 	for(int i=0;i<m;i++){
+		it j=s[i].begin();
 		if(s[i].size()<3){
-			for(it j=s[i].begin();j!=s[i].end();j++){
-				cout<<(*j).second<<" ";
-			}
+			cout<<(*j).second<<" ";
+			cout<<(*(++j)).second;
 		}
 		else{
-			it j=s[i].begin();
+			
 			if((*(++j)).first == (*(++j)).first)cout<<"?";
 			else cout<<(*s[i].begin()).second<<" "<<(*(--j)).second;
 		}
