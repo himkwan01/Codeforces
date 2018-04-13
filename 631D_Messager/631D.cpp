@@ -77,8 +77,8 @@ int main(){
 		}
 	}
 	b=tempsize;
-	//cout<<"a = "<<a<<endl;
-	//cout<<"b = "<<b<<endl;
+	cout<<"a = "<<a<<endl;
+	cout<<"b = "<<b<<endl;
 	long long pos = reduce1.find(reduce2);
 	//cout<<"pos = "<<pos<<endl;
 	if(all_one && b>1){
